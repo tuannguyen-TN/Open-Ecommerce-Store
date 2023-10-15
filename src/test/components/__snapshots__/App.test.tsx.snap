@@ -1,0 +1,1077 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test App component Should layout match snapshot 1`] = `
+<body>
+  <div>
+    <header
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionSticky css-hakpzo-MuiPaper-root-MuiAppBar-root"
+    >
+      <div
+        class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-1g467ij-MuiToolbar-root"
+      >
+        <div
+          class="MuiStack-root css-l6jwtl-MuiStack-root"
+        >
+          <a
+            href="/"
+            style="text-decoration: none;"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-2l1qg7-MuiTypography-root"
+            >
+              Home
+            </h6>
+          </a>
+          <a
+            href="/products"
+            style="text-decoration: none;"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-2l1qg7-MuiTypography-root"
+            >
+              All products
+            </h6>
+          </a>
+        </div>
+        <div
+          class="MuiStack-root css-l6jwtl-MuiStack-root"
+        >
+          <span
+            class="MuiSwitch-root MuiSwitch-sizeMedium css-654mf-MuiSwitch-root"
+          >
+            <span
+              class="MuiButtonBase-root MuiSwitch-switchBase MuiSwitch-colorPrimary Mui-checked PrivateSwitchBase-root MuiSwitch-switchBase MuiSwitch-colorPrimary Mui-checked Mui-checked css-1sy8l10-MuiButtonBase-root-MuiSwitch-switchBase"
+            >
+              <input
+                checked=""
+                class="PrivateSwitchBase-input MuiSwitch-input css-1m9pwf3"
+                type="checkbox"
+              />
+              <span
+                class="MuiSwitch-thumb css-jsexje-MuiSwitch-thumb"
+              />
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </span>
+            <span
+              class="MuiSwitch-track css-dnkzfa-MuiSwitch-track"
+            />
+          </span>
+          <a
+            href="/cart"
+            style="text-decoration: none;"
+          >
+            <span
+              class="MuiBadge-root css-1c32n2y-MuiBadge-root"
+            >
+              <h6
+                class="MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-2l1qg7-MuiTypography-root"
+              >
+                🛒
+              </h6>
+              <span
+                class="MuiBadge-badge MuiBadge-standard MuiBadge-invisible MuiBadge-anchorOriginTopRight MuiBadge-anchorOriginTopRightRectangular MuiBadge-overlapRectangular MuiBadge-colorWarning css-1i3foy1-MuiBadge-badge"
+              />
+            </span>
+          </a>
+          <div
+            class="MuiStack-root css-l6jwtl-MuiStack-root"
+          >
+            <a
+              href="/register"
+              style="text-decoration: none;"
+            >
+              <h6
+                class="MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-2l1qg7-MuiTypography-root"
+              >
+                Sign up
+              </h6>
+            </a>
+            <a
+              href="/login"
+              style="text-decoration: none;"
+            >
+              <h6
+                class="MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-2l1qg7-MuiTypography-root"
+              >
+                Login
+              </h6>
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+    <div
+      class="Toastify"
+    />
+    <div
+      class="MuiBox-root css-12gz4q5"
+    >
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthMd css-xdmu94-MuiContainer-root"
+      >
+        <a
+          href="/"
+          style="text-decoration: none;"
+        >
+          <h1
+            class="MuiTypography-root MuiTypography-h2 MuiTypography-alignCenter MuiTypography-gutterBottom css-1bg2vvt-MuiTypography-root"
+          >
+            Open E-commerce Store
+          </h1>
+        </a>
+        <p
+          class="MuiTypography-root MuiTypography-h5 MuiTypography-alignCenter MuiTypography-paragraph css-esifr3-MuiTypography-root"
+        >
+          A portal to look for the favorite product of your choice, from clothing, accessories, to electronics, or even cars!
+        </p>
+      </div>
+    </div>
+    <main
+      style="min-height: calc(100vh - 290px);"
+    >
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthLg css-qhibcd-MuiContainer-root"
+      >
+        <div
+          class="MuiBox-root css-0"
+        >
+          <h4
+            class="MuiTypography-root MuiTypography-h4 MuiTypography-alignCenter MuiTypography-gutterBottom css-3utmb5-MuiTypography-root"
+          >
+            Featured Products
+          </h4>
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 css-480o17-MuiGrid-root"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-11l5t4l-MuiGrid-root"
+            >
+              <div
+                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-3h3jd-MuiPaper-root-MuiCard-root"
+              >
+                <div
+                  class="slick-slider slick-initialized"
+                  dir="ltr"
+                >
+                  <button
+                    class="slick-arrow slick-prev"
+                    data-role="none"
+                    style="display: block;"
+                    type="button"
+                  >
+                     
+                    Previous
+                  </button>
+                  <div
+                    class="slick-list"
+                  >
+                    <div
+                      class="slick-track"
+                      style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+                    >
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="-1"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="false"
+                        class="slick-slide slick-active slick-current"
+                        data-index="0"
+                        style="outline: none; width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide"
+                        data-index="1"
+                        style="outline: none; width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide"
+                        data-index="2"
+                        style="outline: none; width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="3"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="4"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="5"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <button
+                    class="slick-arrow slick-next"
+                    data-role="none"
+                    style="display: block;"
+                    type="button"
+                  >
+                     
+                    Next
+                  </button>
+                  <ul
+                    class="slick-dots"
+                    style="margin-bottom: 4px; height: 14%;"
+                  >
+                    <li
+                      class="slick-active"
+                    >
+                      <button>
+                        1
+                      </button>
+                    </li>
+                    <li
+                      class=""
+                    >
+                      <button>
+                        2
+                      </button>
+                    </li>
+                    <li
+                      class=""
+                    >
+                      <button>
+                        3
+                      </button>
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  class="MuiCardContent-root css-2r3irp-MuiCardContent-root"
+                >
+                  <div
+                    class="MuiStack-root css-gmwslw-MuiStack-root"
+                  >
+                    <h2
+                      class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+                    >
+                      nuevo title
+                    </h2>
+                    <h2
+                      class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+                    >
+                      $
+                      987
+                    </h2>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+                  >
+                    The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive
+                  </p>
+                </div>
+                <div
+                  class="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="SearchIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="AddShoppingCartIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M11 9h2V6h3V4h-3V1h-2v3H8v2h3v3zm-4 9c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zm-9.83-3.25.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.86-7.01L19.42 4h-.01l-1.1 2-2.76 5H8.53l-.13-.27L6.16 6l-.95-2-.94-2H1v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.13 0-.25-.11-.25-.25z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                  <div>
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                      disabled=""
+                      tabindex="-1"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="EditIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 0 0-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                        />
+                      </svg>
+                    </button>
+                  </div>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="DeleteIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
+                      />
+                    </svg>
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="StarIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-11l5t4l-MuiGrid-root"
+            >
+              <div
+                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-3h3jd-MuiPaper-root-MuiCard-root"
+              >
+                <div
+                  class="slick-slider slick-initialized"
+                  dir="ltr"
+                >
+                  <button
+                    class="slick-arrow slick-prev"
+                    data-role="none"
+                    style="display: block;"
+                    type="button"
+                  >
+                     
+                    Previous
+                  </button>
+                  <div
+                    class="slick-list"
+                  >
+                    <div
+                      class="slick-track"
+                      style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+                    >
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="-1"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="false"
+                        class="slick-slide slick-active slick-current"
+                        data-index="0"
+                        style="outline: none; width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide"
+                        data-index="1"
+                        style="outline: none; width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide"
+                        data-index="2"
+                        style="outline: none; width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="3"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="4"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="5"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <button
+                    class="slick-arrow slick-next"
+                    data-role="none"
+                    style="display: block;"
+                    type="button"
+                  >
+                     
+                    Next
+                  </button>
+                  <ul
+                    class="slick-dots"
+                    style="margin-bottom: 4px; height: 14%;"
+                  >
+                    <li
+                      class="slick-active"
+                    >
+                      <button>
+                        1
+                      </button>
+                    </li>
+                    <li
+                      class=""
+                    >
+                      <button>
+                        2
+                      </button>
+                    </li>
+                    <li
+                      class=""
+                    >
+                      <button>
+                        3
+                      </button>
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  class="MuiCardContent-root css-2r3irp-MuiCardContent-root"
+                >
+                  <div
+                    class="MuiStack-root css-gmwslw-MuiStack-root"
+                  >
+                    <h2
+                      class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+                    >
+                      Bespoke Wooden Shirt
+                    </h2>
+                    <h2
+                      class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+                    >
+                      $
+                      551
+                    </h2>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+                  >
+                    The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive
+                  </p>
+                </div>
+                <div
+                  class="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="SearchIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="AddShoppingCartIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M11 9h2V6h3V4h-3V1h-2v3H8v2h3v3zm-4 9c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zm-9.83-3.25.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.86-7.01L19.42 4h-.01l-1.1 2-2.76 5H8.53l-.13-.27L6.16 6l-.95-2-.94-2H1v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.13 0-.25-.11-.25-.25z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                  <div>
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                      disabled=""
+                      tabindex="-1"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="EditIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 0 0-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                        />
+                      </svg>
+                    </button>
+                  </div>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="DeleteIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
+                      />
+                    </svg>
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="StarIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 css-11l5t4l-MuiGrid-root"
+            >
+              <div
+                class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-3h3jd-MuiPaper-root-MuiCard-root"
+              >
+                <div
+                  class="slick-slider slick-initialized"
+                  dir="ltr"
+                >
+                  <button
+                    class="slick-arrow slick-prev"
+                    data-role="none"
+                    style="display: block;"
+                    type="button"
+                  >
+                     
+                    Previous
+                  </button>
+                  <div
+                    class="slick-list"
+                  >
+                    <div
+                      class="slick-track"
+                      style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+                    >
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="-1"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="false"
+                        class="slick-slide slick-active slick-current"
+                        data-index="0"
+                        style="outline: none; width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide"
+                        data-index="1"
+                        style="outline: none; width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide"
+                        data-index="2"
+                        style="outline: none; width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="3"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="4"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        class="slick-slide slick-cloned"
+                        data-index="5"
+                        style="width: 0px;"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <div
+                            class="MuiCardMedia-root css-1kxdiu9-MuiCardMedia-root"
+                            role="img"
+                            style="background-image: url(https://source.unsplash.com/random); width: 100%; display: inline-block;"
+                            tabindex="-1"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <button
+                    class="slick-arrow slick-next"
+                    data-role="none"
+                    style="display: block;"
+                    type="button"
+                  >
+                     
+                    Next
+                  </button>
+                  <ul
+                    class="slick-dots"
+                    style="margin-bottom: 4px; height: 14%;"
+                  >
+                    <li
+                      class="slick-active"
+                    >
+                      <button>
+                        1
+                      </button>
+                    </li>
+                    <li
+                      class=""
+                    >
+                      <button>
+                        2
+                      </button>
+                    </li>
+                    <li
+                      class=""
+                    >
+                      <button>
+                        3
+                      </button>
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  class="MuiCardContent-root css-2r3irp-MuiCardContent-root"
+                >
+                  <div
+                    class="MuiStack-root css-gmwslw-MuiStack-root"
+                  >
+                    <h2
+                      class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+                    >
+                      Gorgeous Soft Hat
+                    </h2>
+                    <h2
+                      class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+                    >
+                      $
+                      635
+                    </h2>
+                  </div>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+                  >
+                    New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart
+                  </p>
+                </div>
+                <div
+                  class="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="SearchIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="AddShoppingCartIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M11 9h2V6h3V4h-3V1h-2v3H8v2h3v3zm-4 9c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zm-9.83-3.25.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.86-7.01L19.42 4h-.01l-1.1 2-2.76 5H8.53l-.13-.27L6.16 6l-.95-2-.94-2H1v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.13 0-.25-.11-.25-.25z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                  <div>
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                      disabled=""
+                      tabindex="-1"
+                      type="button"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                        data-testid="EditIcon"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 0 0-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                        />
+                      </svg>
+                    </button>
+                  </div>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="DeleteIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
+                      />
+                    </svg>
+                  </button>
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1j5wka2-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                      data-testid="StarIcon"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer
+      style="background-color: gray;"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1mxn3h1-MuiTypography-root"
+      >
+        Copyright © Tuan Nguyen 
+        2023
+        .
+      </p>
+    </footer>
+  </div>
+</body>
+`;
